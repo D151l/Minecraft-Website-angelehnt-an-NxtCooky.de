@@ -1,0 +1,11 @@
+.banner {
+    background-image: url('../../banner.png');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.center {
+  text-align: center;
+}
