@@ -1,7 +1,4 @@
 # Minecraft Website angelens an NxtCooky.de
  Minecraft Website angelens an NxtCooky.de
 
- Das ist ein Test!gdr
- drgdgr
-
- drgd
+Um ein Logo zu verwenden musst du nur ne PNG names **`Logo`** Hochladen und im gleichen Ordner wie die **`index.html`** rein packen.
